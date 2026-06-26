@@ -1,0 +1,21 @@
+[project]
+name = "youtube-sentiment-analysis"
+version = "0.1.0"
+description = "Analyze and report sentiment of comments of a youtube video"
+authors = [
+    {name = "Ritam De"}
+]
+license = "MIT"
+requires-python = ">=3.14"
+dependencies = [
+    "python-dotenv (>=1.2.2,<2.0.0)",
+    "google-api-python-client (>=2.197.0,<3.0.0)",
+    "google-genai (>=2.10.0,<3.0.0)",
+    "google (>=3.0.0,<4.0.0)",
+    "pyyaml (>=6.0.3,<7.0.0)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
