@@ -38,7 +38,6 @@
 | 🤖 **AI-Powered Analysis** | Uses Google Gemini 3.1 Flash Lite for intelligent sentiment detection |
 | 📹 **YouTube Integration** | Seamless connection to YouTube API for real-time comment retrieval |
 | 🎨 **Formatted Output** | Generates clean markdown reports automatically |
-| ⚡ **Fast & Efficient** | Processes 100 comments in seconds |
 | 🔐 **Secure** | API keys stored safely in environment variables |
 | 📦 **Easy Setup** | Poetry-based dependency management |
 
